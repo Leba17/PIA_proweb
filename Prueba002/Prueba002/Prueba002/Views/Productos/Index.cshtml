@@ -48,12 +48,12 @@
             <td>
                 @Html.DisplayFor(modelItem => item.PrecioProducto)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdCategoriaNavigation.IdCategoria)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdMarcasNavigation.IdMarcas)
-            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCategoriaNavigation.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMarcasNavigation.Marcas)
+                </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.IdProducto">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.IdProducto">Details</a> |

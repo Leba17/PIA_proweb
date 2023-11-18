@@ -48,8 +48,8 @@ namespace Prueba002.Controllers
         // GET: Productos/Create
         public IActionResult Create()
         {
-            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "IdCategoria");
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "IdMarcas");
+            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Descripcion");
             return View();
         }
 
@@ -76,8 +76,8 @@ namespace Prueba002.Controllers
                 return RedirectToAction(nameof(Index));
 
             }
-            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "IdCategoria", producto.IdCategoria);
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "IdMarcas", producto.IdMarcas);
+            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Descripcion");
             return View(producto);
         }
 
