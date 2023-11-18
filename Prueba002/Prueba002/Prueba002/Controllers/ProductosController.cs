@@ -49,7 +49,7 @@ namespace Prueba002.Controllers
         public IActionResult Create()
         {
             ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View();
         }
 
@@ -77,7 +77,7 @@ namespace Prueba002.Controllers
 
             }
             ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
 
@@ -94,8 +94,8 @@ namespace Prueba002.Controllers
             {
                 return NotFound();
             }
-            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "IdCategoria", producto.IdCategoria);
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "IdMarcas", producto.IdMarcas);
+            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
 
@@ -131,8 +131,8 @@ namespace Prueba002.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "IdCategoria", producto.IdCategoria);
-            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "IdMarcas", producto.IdMarcas);
+            ViewData["IdCategoria"] = new SelectList(_context.Categoria, "IdCategoria", "Descripcion");
+            ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
 
