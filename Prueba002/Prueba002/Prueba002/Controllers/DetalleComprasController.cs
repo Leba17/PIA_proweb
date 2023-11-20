@@ -80,14 +80,14 @@ namespace Prueba002.Controllers
         }
 
         // GET: DetalleCompras/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int? id,int idp)
         {
             if (id == null || _context.DetalleCompras == null)
             {
                 return NotFound();
             }
 
-            var detalleCompra = await _context.DetalleCompras.FindAsync(id);
+            var detalleCompra = await _context.DetalleCompras.FindAsync(id,idp);
             if (detalleCompra == null)
             {
                 return NotFound();
@@ -127,7 +127,7 @@ namespace Prueba002.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!DetalleCompraExists(detalleCompra.IdCompra))
+                    if (!DetalleCompraExists(detalleCompra.IdCompra,detalleCompra.IdProducto))
                     {
                         return NotFound();
                     }
@@ -144,7 +144,7 @@ namespace Prueba002.Controllers
         }
 
         // GET: DetalleCompras/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int? id, int idp)
         {
             if (id == null || _context.DetalleCompras == null)
             {
@@ -154,7 +154,7 @@ namespace Prueba002.Controllers
             var detalleCompra = await _context.DetalleCompras
                 .Include(d => d.IdCompraNavigation)
                 .Include(d => d.IdProductoNavigation)
-                .FirstOrDefaultAsync(m => m.IdCompra == id);
+                .FirstOrDefaultAsync(m => m.IdCompra == id && m.IdProducto==idp);
             if (detalleCompra == null)
             {
                 return NotFound();
@@ -166,13 +166,13 @@ namespace Prueba002.Controllers
         // POST: DetalleCompras/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(int id, int idp)
         {
             if (_context.DetalleCompras == null)
             {
                 return Problem("Entity set 'Incio_ProyectoContext.DetalleCompras'  is null.");
             }
-            var detalleCompra = await _context.DetalleCompras.FindAsync(id);
+            var detalleCompra = await _context.DetalleCompras.FindAsync(id,idp);
             if (detalleCompra != null)
             {
                 _context.DetalleCompras.Remove(detalleCompra);
@@ -182,9 +182,10 @@ namespace Prueba002.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool DetalleCompraExists(int id)
+        private bool DetalleCompraExists(int id,int idp)
         {
-          return (_context.DetalleCompras?.Any(e => e.IdCompra == id)).GetValueOrDefault();
+          return (_context.DetalleCompras?.Any(e => e.IdCompra == id && e.IdProducto == idp)).GetValueOrDefault();
+
         }
     }
 }
