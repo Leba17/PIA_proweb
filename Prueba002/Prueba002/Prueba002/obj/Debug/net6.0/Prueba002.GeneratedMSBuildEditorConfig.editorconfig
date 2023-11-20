@@ -256,6 +256,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
