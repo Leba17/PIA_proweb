@@ -26,7 +26,7 @@ namespace Prueba002.Controllers
         }
 
         // GET: Carritos/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int? id, int idu)
         {
             if (id == null || _context.Carritos == null)
             {
@@ -36,7 +36,7 @@ namespace Prueba002.Controllers
             var carrito = await _context.Carritos
                 .Include(c => c.IdProductoNavigation)
                 .Include(c => c.IdUsuarioNavigation)
-                .FirstOrDefaultAsync(m => m.IdProducto == id);
+                .FirstOrDefaultAsync(m => m.IdProducto == id && m.IdUsuario == idu);
             if (carrito == null)
             {
                 return NotFound();
@@ -79,14 +79,14 @@ namespace Prueba002.Controllers
         }
 
         // GET: Carritos/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int? id, int idu)
         {
             if (id == null || _context.Carritos == null)
             {
                 return NotFound();
             }
 
-            var carrito = await _context.Carritos.FindAsync(id);
+            var carrito = await _context.Carritos.FindAsync(id,idu);
             if (carrito == null)
             {
                 return NotFound();
@@ -101,7 +101,7 @@ namespace Prueba002.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdProducto,IdUsuario,Cantidad")] Carrito carrito)
+        public async Task<IActionResult> Edit(int id, [Bind("IdProducto,IdUsuario,Cantidad")] Models.CarritoHR carrito)
         {
             if (id != carrito.IdProducto)
             {
@@ -110,14 +110,21 @@ namespace Prueba002.Controllers
 
             if (ModelState.IsValid)
             {
+                Carrito carrito1 = new Carrito
+                {
+                    IdProducto = carrito.IdProducto,
+                    IdUsuario = carrito.IdUsuario,
+                    Cantidad = carrito.Cantidad
+
+                };
                 try
                 {
-                    _context.Update(carrito);
+                    _context.Carritos.Update(carrito1);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!CarritoExists(carrito.IdProducto))
+                    if (!CarritoExists(carrito.IdProducto , carrito.IdUsuario))
                     {
                         return NotFound();
                     }
@@ -134,7 +141,7 @@ namespace Prueba002.Controllers
         }
 
         // GET: Carritos/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int? id, int idu)
         {
             if (id == null || _context.Carritos == null)
             {
@@ -156,13 +163,13 @@ namespace Prueba002.Controllers
         // POST: Carritos/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(int id, int idu)
         {
             if (_context.Carritos == null)
             {
                 return Problem("Entity set 'Incio_ProyectoContext.Carritos'  is null.");
             }
-            var carrito = await _context.Carritos.FindAsync(id);
+            var carrito = await _context.Carritos.FindAsync(id,idu);
             if (carrito != null)
             {
                 _context.Carritos.Remove(carrito);
@@ -172,9 +179,9 @@ namespace Prueba002.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool CarritoExists(int id)
+        private bool CarritoExists(int id, int idu)
         {
-          return (_context.Carritos?.Any(e => e.IdProducto == id)).GetValueOrDefault();
+          return (_context.Carritos?.Any(e => e.IdProducto == id && e.IdUsuario == idu)).GetValueOrDefault();
         }
     }
 }
