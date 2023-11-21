@@ -296,6 +296,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Almacenamiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbG1hY2VuYW1pZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -304,16 +308,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Disipadores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNpcGFkb3Jlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FEFA.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGRUZBLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FuentesDePoder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGdWVudGVzRGVQb2Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Gabinetes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWJpbmV0ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/MemoriasRAM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW1vcmlhc1JBTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/PlacaMadre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFjYU1hZHJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Procesadores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9jZXNhZG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/TarjetasGraficas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXJqZXRhc0dyYWZpY2FzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Create.cshtml]

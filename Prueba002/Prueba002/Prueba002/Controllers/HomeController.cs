@@ -12,18 +12,52 @@ namespace Prueba002.Controllers
         {
             _logger = logger;
         }
-
-        public IActionResult Index()
+        public IActionResult Procesadores()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+		public IActionResult TarjetasGraficas()
+		{
+			return View();
+		}
+
+		public IActionResult PlacaMadre()
+		{
+			return View();
+		}
+
+		public IActionResult MemoriasRAM()
+		{
+			return View();
+		}
+
+		public IActionResult FuentesDePoder()
+		{
+			return View();
+		}
+
+		public IActionResult Disipadores()
+		{
+			return View();
+		}
+
+		public IActionResult Almacenamiento()
+		{
+			return View();
+		}
+
+		public IActionResult Index()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+		public IActionResult Gabinetes()
+		{
+			return View();
+		}
+
+		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
