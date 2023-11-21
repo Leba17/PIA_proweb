@@ -5,8 +5,40 @@
       "PackagePath": "staticwebassets\\Prueba002.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\Disipadores.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Disipadores.png"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\FuenteDePoder.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\FuenteDePoder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\Gabinetes.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Gabinetes.jpg"
+    },
+    {
       "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\Logo.jpeg",
       "PackagePath": "staticwebassets\\Imagenes\\Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\MemoriaRAM.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\MemoriaRAM.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\PlacaMadre.png",
+      "PackagePath": "staticwebassets\\Imagenes\\PlacaMadre.png"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\Procesadores.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Procesadores.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\SSD NVMe.png",
+      "PackagePath": "staticwebassets\\Imagenes\\SSD NVMe.png"
+    },
+    {
+      "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\Imagenes\\TarjetasGraficas.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\TarjetasGraficas.jpg"
     },
     {
       "Id": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\site.css",

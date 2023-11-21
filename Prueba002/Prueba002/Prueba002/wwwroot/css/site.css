@@ -14,5 +14,20 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  margin: 0 auto;
+  font-family:'lato';
+  color: black;
+}
+.icon-cart{
+    width: 40px;
+    height: 40px;
+}
+img{
+    max-width: 100%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0 40px 0;
 }
