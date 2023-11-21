@@ -13,11 +13,7 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin: 0 auto;
-  font-family:'lato';
-  color: black;
-}
+
 .icon-cart{
     width: 40px;
     height: 40px;
@@ -30,4 +26,33 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 30px 0 40px 0;
+}
+
+footer{
+}
+/* PAGINA DE DE INICIO */
+.item img{
+    height: 300px;
+    width: 300px;
+    
+}
+.item{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+.Info-Producto{
+    padding: 15px 30px;
+    line-height: 2;
+    display: flex;
+    flex-direction: column;
+}
+.Info-Producto button{
+    border: none;
+    background: black;
+    color: white;
+    padding: 15px 10px;
+    cursor: pointer;
 }
