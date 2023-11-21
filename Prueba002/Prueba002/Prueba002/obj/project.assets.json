@@ -11495,19 +11495,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abeld\\.nuget\\packages\\": {}
+    "C:\\Users\\Rigo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
+      "projectUniqueName": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
       "projectName": "Prueba002",
-      "projectPath": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
-      "packagesPath": "C:\\Users\\abeld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\obj\\",
+      "projectPath": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
+      "packagesPath": "C:\\Users\\Rigo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\abeld\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11583,7 +11588,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
