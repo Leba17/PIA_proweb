@@ -10,7 +10,7 @@ using Prueba002.Models.dbModels;
 
 namespace Prueba002.Controllers
 {
-    [Authorize(Roles = "Administrador")]
+    
     public class ProductosController : Controller
     {
         private readonly Incio_ProyectoContext _context;
@@ -46,6 +46,7 @@ namespace Prueba002.Controllers
 
             return View(producto);
         }
+        [Authorize(Roles = "Administrador")]
 
         // GET: Productos/Create
         public IActionResult Create()
@@ -54,7 +55,7 @@ namespace Prueba002.Controllers
             ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View();
         }
-
+        [Authorize(Roles = "Administrador")]
         // POST: Productos/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -82,7 +83,7 @@ namespace Prueba002.Controllers
             ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
-
+        [Authorize(Roles = "Administrador")]
         // GET: Productos/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -100,7 +101,7 @@ namespace Prueba002.Controllers
             ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
-
+        [Authorize(Roles = "Administrador")]
         // POST: Productos/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -147,7 +148,7 @@ namespace Prueba002.Controllers
             ViewData["IdMarcas"] = new SelectList(_context.Marcas, "IdMarcas", "Marcas");
             return View(producto);
         }
-
+        [Authorize(Roles = "Administrador")]
         // GET: Productos/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -167,7 +168,7 @@ namespace Prueba002.Controllers
 
             return View(producto);
         }
-
+        [Authorize(Roles = "Administrador")]
         // POST: Productos/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

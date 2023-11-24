@@ -11,6 +11,7 @@ using Prueba002.Models.dbModels;
 namespace Prueba002.Controllers
 {
     [Authorize(Roles = "Administrador")]
+    [Authorize(Roles = "Clientes")]
     public class ComprasController : Controller
     {
         private readonly Incio_ProyectoContext _context;
@@ -46,7 +47,7 @@ namespace Prueba002.Controllers
 
             return View(compra);
         }
-
+        [Authorize(Roles = "Administrador")]
         // GET: Compras/Create
         public IActionResult Create()
         {
@@ -78,7 +79,7 @@ namespace Prueba002.Controllers
             ViewData["IdUsuario"] = new SelectList(_context.Users, "Id", "Nombre", compra.IdUsuario);
             return View(compra);
         }
-
+        [Authorize(Roles = "Administrador")]
         // GET: Compras/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -96,7 +97,7 @@ namespace Prueba002.Controllers
             ViewData["IdUsuario"] = new SelectList(_context.Users, "Id", "Nombre", compra.IdUsuario);
             return View(compra);
         }
-
+        [Authorize(Roles = "Administrador")]
         // POST: Compras/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -139,7 +140,7 @@ namespace Prueba002.Controllers
             ViewData["IdUsuario"] = new SelectList(_context.Users, "Id", "Nombre", compra.IdUsuario);
             return View(compra);
         }
-
+        [Authorize(Roles = "Administrador")]
         // GET: Compras/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -159,7 +160,7 @@ namespace Prueba002.Controllers
 
             return View(compra);
         }
-
+        [Authorize(Roles = "Administrador")]
         // POST: Compras/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

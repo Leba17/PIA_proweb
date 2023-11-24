@@ -11,6 +11,7 @@ using Prueba002.Models.dbModels;
 namespace Prueba002.Controllers
 {
     [Authorize(Roles = "Administrador")]
+    [Authorize(Roles = "Cliente")]
 
     public class CarritosController : Controller
     {
