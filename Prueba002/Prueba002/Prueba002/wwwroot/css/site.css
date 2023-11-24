@@ -26,15 +26,22 @@ header{
     display: flex;
     justify-content: space-between;
 }
+.Titulo {
+    text-align: center;
+}
 
-
-footer{
+footer {
+    background: midnightblue;
+    padding: 30px;
+}
+.container-items{
+    margin:20px;
+    padding: 100px 0px;
 }
 /* PAGINA DE DE INICIO */
-.item img{
+.item img {
     height: 300px;
     width: 300px;
-    
 }
 .item{
     border-radius: 10px;
