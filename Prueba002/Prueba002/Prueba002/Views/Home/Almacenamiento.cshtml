@@ -3,5 +3,26 @@
 }
 <header>
 	<h1>Almacenamiento</h1>
-	<a href="@Url.Action("Index", "Productos")">Go to Index</a>
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 </header>
+
+<script>
+    $(document).ready(function () {
+        // Obtén el ID de categoría deseado (en este caso, 12)
+        var categoryIdToFilter = 12;
+
+        // Oculta las filas que no cumplen con el criterio de la categoría
+        $('tbody tr').each(function () {
+            var categoryId = parseInt($(this).find('td:eq(4)').text()); // Índice 4 es la columna de IdCategoriaNavigation
+
+            if (categoryId !== categoryIdToFilter) {
+                $(this).hide();
+            }
+        });
+
+        // Puedes agregar un botón u otro evento para restablecer el filtro si es necesario
+        $('#resetFilter').click(function () {
+            $('tbody tr').show();
+        });
+    });
+</script>
