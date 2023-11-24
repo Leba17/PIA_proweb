@@ -106,7 +106,7 @@ namespace Prueba002.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdProducto,NombreProducto,Descripcion,IdCategoria,Stock,PrecioProducto,IdMarcas")] Producto producto)
+        public async Task<IActionResult> Edit(int id, [Bind("IdProducto,NombreProducto,Descripcion,IdCategoria,Stock,PrecioProducto,IdMarcas")] Models.ProductoHR producto)
         {
             if (id != producto.IdProducto)
             {
@@ -115,9 +115,19 @@ namespace Prueba002.Controllers
 
             if (ModelState.IsValid)
             {
+                Producto producto1 = new Producto
+                {
+                    NombreProducto = producto.NombreProducto,
+                    Descripcion = producto.Descripcion,
+                    IdCategoria = producto.IdCategoria,
+                    Stock = producto.Stock,
+                    PrecioProducto = producto.PrecioProducto,
+                    IdMarcas = producto.IdMarcas,
+                };
+                
                 try
                 {
-                    _context.Update(producto);
+                    _context.Productos.Update(producto1);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
