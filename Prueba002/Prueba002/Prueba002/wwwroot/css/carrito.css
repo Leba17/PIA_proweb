@@ -1,0 +1,39 @@
+﻿body {
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+.table {
+    margin-top: 20px;
+}
+
+th, td {
+    text-align: center;
+}
+
+.thead-dark th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-warning, .btn-info, .btn-danger {
+    margin: 0 2px;
+}

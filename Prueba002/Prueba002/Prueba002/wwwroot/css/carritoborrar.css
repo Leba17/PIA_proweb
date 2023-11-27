@@ -1,0 +1,25 @@
+﻿body {
+    padding: 20px;
+}
+
+h1 {
+    color: #dc3545;
+}
+
+h3 {
+    color: #007bff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+    .btn-danger:hover {
+        background-color: #bd2130;
+        border-color: #bd2130;
+    }
+
+.btn-secondary {
+    margin-top: 10px;
+}

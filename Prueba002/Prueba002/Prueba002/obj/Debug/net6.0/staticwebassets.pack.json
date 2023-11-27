@@ -41,6 +41,26 @@
       "PackagePath": "staticwebassets\\Imagenes\\TarjetasGraficas.jpg"
     },
     {
+      "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\carrito.css",
+      "PackagePath": "staticwebassets\\css\\carrito.css"
+    },
+    {
+      "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\carritoborrar.css",
+      "PackagePath": "staticwebassets\\css\\carritoborrar.css"
+    },
+    {
+      "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\carritocrear.css",
+      "PackagePath": "staticwebassets\\css\\carritocrear.css"
+    },
+    {
+      "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\carritodetalles.css",
+      "PackagePath": "staticwebassets\\css\\carritodetalles.css"
+    },
+    {
+      "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\carritoeditar.css",
+      "PackagePath": "staticwebassets\\css\\carritoeditar.css"
+    },
+    {
       "Id": "C:\\Users\\abeld\\source\\repos\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
