@@ -10,8 +10,7 @@ using Prueba002.Models.dbModels;
 
 namespace Prueba002.Controllers
 {
-    [Authorize(Roles = "Administrador")]
-    [Authorize(Roles = "Cliente")]
+
 
     public class CarritosController : Controller
     {
@@ -145,7 +144,7 @@ namespace Prueba002.Controllers
         }
 
         // GET: Carritos/Delete/5
-        public async Task<IActionResult> Delete(int? id, int idu)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Carritos == null)
             {
