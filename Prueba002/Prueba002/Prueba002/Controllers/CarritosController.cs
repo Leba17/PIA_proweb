@@ -10,7 +10,7 @@ using Prueba002.Models.dbModels;
 
 namespace Prueba002.Controllers
 {
-
+    [Authorize(Roles = "Administrador,Cliente")]
 
     public class CarritosController : Controller
     {
