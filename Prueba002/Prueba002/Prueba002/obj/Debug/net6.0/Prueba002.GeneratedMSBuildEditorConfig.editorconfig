@@ -9,465 +9,465 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Prueba002
 build_property.RootNamespace = Prueba002
-build_property.ProjectDir = C:\Users\abeld\source\repos\PIA_proweb\Prueba002\Prueba002\Prueba002\
+build_property.ProjectDir = C:\Users\Rigo\Desktop\PIA_proweb\Prueba002\Prueba002\Prueba002\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\abeld\source\repos\PIA_proweb\Prueba002\Prueba002\Prueba002
+build_property.MSBuildProjectDirectory = C:\Users\Rigo\Desktop\PIA_proweb\Prueba002\Prueba002\Prueba002
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Carritos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Ciudades/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l1ZGFkZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Compras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/DetalleCompras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/EstatusEnvios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXR1c0Vudmlvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Almacenamiento.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Almacenamiento.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbG1hY2VuYW1pZW50by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Contact.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Contacto.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Contacto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Disipadores.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Disipadores.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNpcGFkb3Jlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FEFA.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FEFA.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGRUZBLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FuentesDePoder.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/FuentesDePoder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGdWVudGVzRGVQb2Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Gabinetes.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Gabinetes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWJpbmV0ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/MemoriasRAM.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/MemoriasRAM.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW1vcmlhc1JBTS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/PlacaMadre.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/PlacaMadre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFjYU1hZHJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Privacy.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Procesadores.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/Procesadores.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9jZXNhZG9yZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/TarjetasGraficas.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Home/TarjetasGraficas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXJqZXRhc0dyYWZpY2FzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Marcas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Producto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Create.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Delete.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Details.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Edit.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Index.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Proveedor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/Error.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/_ViewImports.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/_ViewStart.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/abeld/source/repos/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_Layout.cshtml]
+[C:/Users/Rigo/Desktop/PIA_proweb/Prueba002/Prueba002/Prueba002/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8ruezac7h2
