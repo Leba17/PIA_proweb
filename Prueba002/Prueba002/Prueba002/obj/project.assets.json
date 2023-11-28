@@ -11495,23 +11495,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Rigo\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\RYZEN 5 4650G\\.nuget\\packages\\": {},
+>>>>>>> 0a9c78548f0d274fc741d701b560ffccab8fa372
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
       "projectName": "Prueba002",
       "projectPath": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
       "packagesPath": "C:\\Users\\Rigo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rigo\\Desktop\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\RYZEN 5 4650G\\Desktop\\PIA_PWEBOS\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
+      "projectName": "Prueba002",
+      "projectPath": "C:\\Users\\RYZEN 5 4650G\\Desktop\\PIA_PWEBOS\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\Prueba002.csproj",
+      "packagesPath": "C:\\Users\\RYZEN 5 4650G\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RYZEN 5 4650G\\Desktop\\PIA_PWEBOS\\PIA_proweb\\Prueba002\\Prueba002\\Prueba002\\obj\\",
+>>>>>>> 0a9c78548f0d274fc741d701b560ffccab8fa372
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Rigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\RYZEN 5 4650G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 0a9c78548f0d274fc741d701b560ffccab8fa372
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11520,6 +11536,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11588,7 +11605,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+>>>>>>> 0a9c78548f0d274fc741d701b560ffccab8fa372
       }
     }
   }
